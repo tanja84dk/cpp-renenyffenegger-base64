@@ -3,3 +3,8 @@ test-base64
 .wsjcpp/*
 *.o
 *.exe
+
+[Bb]uild/
+[Oo]ut/
+.vs/
+.vscode/
